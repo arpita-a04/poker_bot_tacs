@@ -15,7 +15,7 @@ from skeleton.states import (
     TerminalState,
 )
 
-# Set to True if you want to use GPT-4 to generate responses,
+# Set to True if you want to use GPT-4 to generate responses, ##this be skylar##
 # and False if you want to manually input responses. #thisis arpita omenet
 USE_GPT = False
 
