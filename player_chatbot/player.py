@@ -16,7 +16,7 @@ from skeleton.states import (
 )
 
 # Set to True if you want to use GPT-4 to generate responses,
-# and False if you want to manually input responses.
+# and False if you want to manually input responses. #thisis arpita omenet
 USE_GPT = False
 
 if USE_GPT:
